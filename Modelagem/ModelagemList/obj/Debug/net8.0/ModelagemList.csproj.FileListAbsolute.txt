@@ -1,0 +1,28 @@
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\bin\Debug\net8.0\ModelagemList.exe
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\bin\Debug\net8.0\ModelagemList.deps.json
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\bin\Debug\net8.0\ModelagemList.runtimeconfig.json
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\bin\Debug\net8.0\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\bin\Debug\net8.0\ModelagemList.pdb
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.AssemblyInfo.cs
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\refint\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.pdb
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ModelagemList.genruntimeconfig.cache
+C:\Users\pc\Desktop\Modelagem Lista\ModelagemList\obj\Debug\net8.0\ref\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem\ModelagemList\bin\Debug\net8.0\ModelagemList.exe
+C:\Users\pc\Desktop\Modelagem\ModelagemList\bin\Debug\net8.0\ModelagemList.deps.json
+C:\Users\pc\Desktop\Modelagem\ModelagemList\bin\Debug\net8.0\ModelagemList.runtimeconfig.json
+C:\Users\pc\Desktop\Modelagem\ModelagemList\bin\Debug\net8.0\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem\ModelagemList\bin\Debug\net8.0\ModelagemList.pdb
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.AssemblyInfo.cs
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\refint\ModelagemList.dll
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.pdb
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ModelagemList.genruntimeconfig.cache
+C:\Users\pc\Desktop\Modelagem\ModelagemList\obj\Debug\net8.0\ref\ModelagemList.dll
